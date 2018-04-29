@@ -32,10 +32,10 @@ public class DB {
 
 		try {
 			Class.forName("com.mysql.jdbc.Driver");
-			System.out.println("로드 함!");
+			System.out.println("connected !!");
 
 		} catch (Exception e) {
-			System.out.println("실패함..");
+			System.out.println("connection fail ..");
 		}
 	}
 
