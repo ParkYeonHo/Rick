@@ -12,8 +12,7 @@
 
 ## ScreenShot
 
-<img width="1239" alt="2018-07-29 2 00 06" src="https://user-images.githubusercontent.com/26926312/43363208-b09ebb56-933a-11e8-9edb-8621e577b23c.png">
-
+<img width="1603" alt="2018-08-01 5 49 46" src="https://user-images.githubusercontent.com/26926312/43511347-1dcd3e26-95b3-11e8-88ae-a7869b4f18d3.png">
 
 
 
